@@ -89,6 +89,7 @@ forwardBtn.addEventListener('click',()=>{
     }
     setMusic(currentMusic);
     playMusic();
+    disk.classList.add('play');
     
 
 })
@@ -101,6 +102,6 @@ backwardBtn.addEventListener('click',()=>{
     }
     setMusic(currentMusic);
     playMusic();
-    
+    disk.classList.add('play');
 
 })
