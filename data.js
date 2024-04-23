@@ -1,32 +1,32 @@
 let songs = [
     {
-        name: 'song 1',
-        path: 'musics/Song 1.mp3',
-        artist: 'artist 1',
-        cover: 'images/cover 1.png'
+        name: 'Apart',
+        path: 'musics/apart.mp3',
+        artist: 'Sumu',
+        cover: 'images/apart.png'
     },
     {
-        name: 'song 2',
-        path: 'musics/Song 2.mp3',
-        artist: 'artist 2',
-        cover: 'images/cover 2.png'
+        name: 'I Wanna Dance',
+        path: 'musics/I Wanna Dance.mp3',
+        artist: 'PYTI',
+        cover: 'images/i wanna dance.png'
     },
     {
-        name: 'song 3',
-        path: 'musics/Song 3.mp3',
-        artist: 'artist 3',
-        cover: 'images/cover 3.png'
+        name: 'Blessings',
+        path: 'musics/Blessings.mp3',
+        artist: 'P3PPER',
+        cover: 'images/blessings.png'
     },
     {
-        name: 'song 4',
-        path: 'musics/Song 4.mp3',
-        artist: 'artist 4',
-        cover: 'images/cover 4.png'
+        name: 'Code',
+        path: 'musics/Code.mp3',
+        artist: 'MANSHN',
+        cover: 'images/code.png'
     },
     {
-        name: 'song 5',
-        path: 'musics/Song 5.mp3',
-        artist: 'artist 5',
-        cover: 'images/cover 5.png'
+        name: 'Stay',
+        path: 'musics/Stay.mp3',
+        artist: 'Diamond Eye',
+        cover: 'images/stay.png'
     },
 ]
